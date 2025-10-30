@@ -7,7 +7,117 @@
     "url": "db://assets/scenes/client.scene",
     "value": {
       "depends": [
-        "c77ecaa8-c936-46c4-a5b0-98692673ed87"
+        "e260080c-dda1-407a-98df-d24dd6bd231c",
+        "14f2c5e1-c35e-4ee6-835f-099f829c3a36@f9941",
+        "c50f1f08-e9f2-40a9-834e-78b62921c691",
+        "c50f1f08-e9f2-40a9-834e-78b62921c691",
+        "c50f1f08-e9f2-40a9-834e-78b62921c691",
+        "c50f1f08-e9f2-40a9-834e-78b62921c691",
+        "c50f1f08-e9f2-40a9-834e-78b62921c691",
+        "c50f1f08-e9f2-40a9-834e-78b62921c691",
+        "c50f1f08-e9f2-40a9-834e-78b62921c691",
+        "c50f1f08-e9f2-40a9-834e-78b62921c691",
+        "c50f1f08-e9f2-40a9-834e-78b62921c691",
+        "c50f1f08-e9f2-40a9-834e-78b62921c691",
+        "c50f1f08-e9f2-40a9-834e-78b62921c691",
+        "c50f1f08-e9f2-40a9-834e-78b62921c691",
+        "96444a46-f5c4-459d-86aa-3fd38b1c456f",
+        "96444a46-f5c4-459d-86aa-3fd38b1c456f",
+        "96444a46-f5c4-459d-86aa-3fd38b1c456f",
+        "96444a46-f5c4-459d-86aa-3fd38b1c456f",
+        "96444a46-f5c4-459d-86aa-3fd38b1c456f",
+        "96444a46-f5c4-459d-86aa-3fd38b1c456f",
+        "96444a46-f5c4-459d-86aa-3fd38b1c456f",
+        "96444a46-f5c4-459d-86aa-3fd38b1c456f",
+        "96444a46-f5c4-459d-86aa-3fd38b1c456f",
+        "96444a46-f5c4-459d-86aa-3fd38b1c456f",
+        "96444a46-f5c4-459d-86aa-3fd38b1c456f",
+        "96444a46-f5c4-459d-86aa-3fd38b1c456f",
+        "e260080c-dda1-407a-98df-d24dd6bd231c"
+      ]
+    }
+  },
+  "83fd2f4e-a50a-4a09-b0d8-c40b422c6ace": {
+    "url": "db://assets/scripts",
+    "value": {}
+  },
+  "0f935291-4b11-47e9-8544-e3cbae87a499": {
+    "url": "db://assets/assets",
+    "value": {}
+  },
+  "0655ba27-af71-452c-bebe-17f8e6cac6b4": {
+    "url": "db://assets/assets/Images",
+    "value": {}
+  },
+  "14f2c5e1-c35e-4ee6-835f-099f829c3a36": {
+    "url": "db://assets/assets/Images/POS-Background.jpg",
+    "value": {
+      "depends": []
+    }
+  },
+  "14f2c5e1-c35e-4ee6-835f-099f829c3a36@6c48a": {
+    "url": "db://assets/assets/Images/POS-Background.jpg@6c48a",
+    "value": {
+      "depends": [
+        "14f2c5e1-c35e-4ee6-835f-099f829c3a36"
+      ]
+    }
+  },
+  "14f2c5e1-c35e-4ee6-835f-099f829c3a36@f9941": {
+    "url": "db://assets/assets/Images/POS-Background.jpg@f9941",
+    "value": {
+      "depends": [
+        "14f2c5e1-c35e-4ee6-835f-099f829c3a36@6c48a"
+      ]
+    }
+  },
+  "7b65ee12-98fa-4b02-bdc5-c95e82089cb5": {
+    "url": "db://assets/assets/Images/yellow-ui-buttons-06-13-square-icon-lg.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "7b65ee12-98fa-4b02-bdc5-c95e82089cb5@6c48a": {
+    "url": "db://assets/assets/Images/yellow-ui-buttons-06-13-square-icon-lg.png@6c48a",
+    "value": {
+      "depends": [
+        "7b65ee12-98fa-4b02-bdc5-c95e82089cb5"
+      ]
+    }
+  },
+  "7b65ee12-98fa-4b02-bdc5-c95e82089cb5@f9941": {
+    "url": "db://assets/assets/Images/yellow-ui-buttons-06-13-square-icon-lg.png@f9941",
+    "value": {
+      "depends": [
+        "7b65ee12-98fa-4b02-bdc5-c95e82089cb5@6c48a"
+      ]
+    }
+  },
+  "9066dfc8-f994-4ffc-a6dc-54e62035834d": {
+    "url": "db://assets/assets/prefabs",
+    "value": {}
+  },
+  "c50f1f08-e9f2-40a9-834e-78b62921c691": {
+    "url": "db://assets/assets/prefabs/mainProduct.prefab",
+    "value": {
+      "depends": [
+        "7b65ee12-98fa-4b02-bdc5-c95e82089cb5@f9941",
+        "7b65ee12-98fa-4b02-bdc5-c95e82089cb5@f9941",
+        "7b65ee12-98fa-4b02-bdc5-c95e82089cb5@f9941",
+        "7b65ee12-98fa-4b02-bdc5-c95e82089cb5@f9941",
+        "7b65ee12-98fa-4b02-bdc5-c95e82089cb5@f9941"
+      ]
+    }
+  },
+  "96444a46-f5c4-459d-86aa-3fd38b1c456f": {
+    "url": "db://assets/assets/prefabs/addonsProduct.prefab",
+    "value": {
+      "depends": [
+        "7b65ee12-98fa-4b02-bdc5-c95e82089cb5@f9941",
+        "7b65ee12-98fa-4b02-bdc5-c95e82089cb5@f9941",
+        "7b65ee12-98fa-4b02-bdc5-c95e82089cb5@f9941",
+        "7b65ee12-98fa-4b02-bdc5-c95e82089cb5@f9941",
+        "7b65ee12-98fa-4b02-bdc5-c95e82089cb5@f9941"
       ]
     }
   }

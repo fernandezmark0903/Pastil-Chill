@@ -11,8 +11,72 @@
     "time": 1761840682167.0208
   },
   "D:\\Pastil&Chill\\assets\\scenes\\client.scene": {
-    "time": 1761840682149.0203,
+    "time": 1761848477385.116,
     "uuid": "e260080c-dda1-407a-98df-d24dd6bd231c",
+    "missing": false
+  },
+  "D:\\Pastil&Chill\\assets\\scripts.meta": {
+    "time": 1761841306518.4753
+  },
+  "D:\\Pastil&Chill\\assets\\scripts": {
+    "time": 1761841306509.4731,
+    "uuid": "83fd2f4e-a50a-4a09-b0d8-c40b422c6ace",
+    "missing": false
+  },
+  "D:\\Pastil&Chill\\assets\\assets.meta": {
+    "time": 1761841311536.3367
+  },
+  "D:\\Pastil&Chill\\assets\\assets": {
+    "time": 1761847159342.8643,
+    "uuid": "0f935291-4b11-47e9-8544-e3cbae87a499",
+    "missing": false
+  },
+  "D:\\Pastil&Chill\\assets\\assets\\Images.meta": {
+    "time": 1761846001921.0146
+  },
+  "D:\\Pastil&Chill\\assets\\assets\\Images": {
+    "time": 1761846078680.6438,
+    "uuid": "0655ba27-af71-452c-bebe-17f8e6cac6b4",
+    "missing": false
+  },
+  "D:\\Pastil&Chill\\assets\\assets\\Images\\POS-Background.jpg.meta": {
+    "time": 1761846017321.6504
+  },
+  "D:\\Pastil&Chill\\assets\\assets\\Images\\POS-Background.jpg": {
+    "time": 1761845989734.332,
+    "uuid": "14f2c5e1-c35e-4ee6-835f-099f829c3a36",
+    "missing": false
+  },
+  "D:\\Pastil&Chill\\assets\\assets\\Images\\yellow-ui-buttons-06-13-square-icon-lg.png.meta": {
+    "time": 1761846078817.6438
+  },
+  "D:\\Pastil&Chill\\assets\\assets\\Images\\yellow-ui-buttons-06-13-square-icon-lg.png": {
+    "time": 1761844369531.0117,
+    "uuid": "7b65ee12-98fa-4b02-bdc5-c95e82089cb5",
+    "missing": false
+  },
+  "D:\\Pastil&Chill\\assets\\assets\\prefabs.meta": {
+    "time": 1761847159343.8662
+  },
+  "D:\\Pastil&Chill\\assets\\assets\\prefabs": {
+    "time": 1761847582749.6467,
+    "uuid": "9066dfc8-f994-4ffc-a6dc-54e62035834d",
+    "missing": false
+  },
+  "D:\\Pastil&Chill\\assets\\assets\\prefabs\\mainProduct.prefab.meta": {
+    "time": 1761847580181.524
+  },
+  "D:\\Pastil&Chill\\assets\\assets\\prefabs\\mainProduct.prefab": {
+    "time": 1761847580179.5327,
+    "uuid": "c50f1f08-e9f2-40a9-834e-78b62921c691",
+    "missing": false
+  },
+  "D:\\Pastil&Chill\\assets\\assets\\prefabs\\addonsProduct.prefab.meta": {
+    "time": 1761847582761.6465
+  },
+  "D:\\Pastil&Chill\\assets\\assets\\prefabs\\addonsProduct.prefab": {
+    "time": 1761847582759.6475,
+    "uuid": "96444a46-f5c4-459d-86aa-3fd38b1c456f",
     "missing": false
   }
 }
