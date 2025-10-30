@@ -1,13 +1,11 @@
-debug: Thu, 30 Oct 2025 15:52:03 GMT
-debug: Project: D:\POS (Pastil&Chill)\Pastil&Chill
+debug: Thu, 30 Oct 2025 16:09:51 GMT
+debug: Project: D:\Pastil&Chill
 debug: Targets: editor,preview
-debug: Packer deriver version file lost or format incorrect: Error: ENOENT: no such file or directory, open 'D:\POS (Pastil&Chill)\Pastil&Chill\temp\programming\packer-driver\VERSION'
-debug: Clearing out the targets...
+debug: Incremental file seems great.
 debug: Engine path: C:\ProgramData\cocos\editors\Creator\3.6.3\resources\resources\3d\engine
 debug: Initializing target [Editor]
 debug: Loading cache
-debug: Record file loaded failed with error: Error: ENOENT: no such file or directory, open 'D:\POS (Pastil&Chill)\Pastil&Chill\temp\programming\packer-driver\targets\editor\main-record.json'
-debug: Loading cache costs 0.4542999863624573ms.
+debug: Loading cache costs 1.648800015449524ms.
 debug: Engine features shipped in editor: base,gfx-webgl,gfx-webgl2,3d,animation,skeletal-animation,2d,ui,particle,particle-2d,physics-framework,physics-2d-framework,intersection-2d,primitive,profiler,occlusion-query,geometry-renderer,debug-renderer,audio,video,xr,terrain,webview,tween,tiled-map,spine,dragon-bones,marionette,custom-pipeline
 debug: Our import map(foo:/bar): {
   "imports": {
@@ -16,8 +14,7 @@ debug: Our import map(foo:/bar): {
 }
 debug: Initializing target [Preview]
 debug: Loading cache
-debug: Record file loaded failed with error: Error: ENOENT: no such file or directory, open 'D:\POS (Pastil&Chill)\Pastil&Chill\temp\programming\packer-driver\targets\preview\main-record.json'
-debug: Loading cache costs 0.37150001525878906ms.
+debug: Loading cache costs 1.070900022983551ms.
 debug: Our import map(foo:/bar): {
   "imports": {
     "cc": "cce:/internal/x/cc"
@@ -31,29 +28,30 @@ debug: Reset databases. Enumerated domains: [
   },
   {
     "root": "db://assets/",
-    "physical": "D:\\POS (Pastil&Chill)\\Pastil&Chill\\assets"
+    "physical": "D:\\Pastil&Chill\\assets"
   }
 ]
 debug: Our import map(foo:/bar): {
   "imports": {
     "cc": "cce:/internal/x/cc",
     "db://internal/": "file:///C:/ProgramData/cocos/editors/Creator/3.6.3/resources/resources/3d/engine/editor/assets/",
-    "db://assets/": "file:///D:/POS%20(Pastil&Chill)/Pastil&Chill/assets/"
+    "db://assets/": "file:///D:/Pastil&Chill/assets/"
   }
 }
 debug: Our import map(foo:/bar): {
   "imports": {
     "cc": "cce:/internal/x/cc",
     "db://internal/": "file:///C:/ProgramData/cocos/editors/Creator/3.6.3/resources/resources/3d/engine/editor/assets/",
-    "db://assets/": "file:///D:/POS%20(Pastil&Chill)/Pastil&Chill/assets/"
+    "db://assets/": "file:///D:/Pastil&Chill/assets/"
   }
 }
 debug: Pulling asset-db.
-debug: Fetch asset-db cost: 3.163100004196167ms.
+debug: Fetch asset-db cost: 3.6061999797821045ms.
 debug: Build iteration starts.
 Number of accumulated asset changes: 0
 Feature changed: false
 debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/cc. Last mtime: Thu Jan 01 1970 08:00:13 GMT+0800 (China Standard Time), Current mtime: Thu Jan 01 1970 08:00:07 GMT+0800 (China Standard Time)
 debug: Inspect cce:/internal/x/cc
 debug: Resolve cce:/internal/x/cc-fu/base from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/base.
 debug: Resolve cce:/internal/x/cc-fu/gfx-webgl from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl.
@@ -81,9 +79,11 @@ debug: Resolve cce:/internal/x/cc-fu/tiled-map from cce:/internal/x/cc as extern
 debug: Resolve cce:/internal/x/cc-fu/spine from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/spine.
 debug: Resolve cce:/internal/x/cc-fu/dragon-bones from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/dragon-bones.
 debug: Resolve cce:/internal/x/cc-fu/custom-pipeline from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/custom-pipeline.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:13 GMT+0800 (China Standard Time), Current mtime: Thu Jan 01 1970 08:00:07 GMT+0800 (China Standard Time)
 debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Target(editor) ends with cost 87.80529999732971ms.
+debug: Target(editor) ends with cost 98.24750000238419ms.
 debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/cc. Last mtime: Thu Jan 01 1970 08:00:13 GMT+0800 (China Standard Time), Current mtime: Thu Jan 01 1970 08:00:07 GMT+0800 (China Standard Time)
 debug: Inspect cce:/internal/x/cc
 debug: Resolve cce:/internal/x/cc-fu/2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/2d.
 debug: Resolve cce:/internal/x/cc-fu/animation from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/animation.
@@ -103,14 +103,15 @@ debug: Resolve cce:/internal/x/cc-fu/tween from cce:/internal/x/cc as external d
 debug: Resolve cce:/internal/x/cc-fu/ui from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/ui.
 debug: Resolve cce:/internal/x/cc-fu/video from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/video.
 debug: Resolve cce:/internal/x/cc-fu/webview from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/webview.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:13 GMT+0800 (China Standard Time), Current mtime: Thu Jan 01 1970 08:00:07 GMT+0800 (China Standard Time)
 debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Target(preview) ends with cost 69.99599999189377ms.
+debug: Target(preview) ends with cost 59.610799968242645ms.
 debug: Pulling asset-db.
-debug: Fetch asset-db cost: 9.816200017929077ms.
+debug: Fetch asset-db cost: 7.411199986934662ms.
 debug: Build iteration starts.
 Number of accumulated asset changes: 0
 Feature changed: false
 debug: Target(editor) build started.
-debug: Target(editor) ends with cost 9.412799954414368ms.
+debug: Target(editor) ends with cost 4.771899998188019ms.
 debug: Target(preview) build started.
-debug: Target(preview) ends with cost 26.947200000286102ms.
+debug: Target(preview) ends with cost 5.849300026893616ms.

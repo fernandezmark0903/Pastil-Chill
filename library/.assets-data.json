@@ -1,0 +1,14 @@
+{
+  "88194477-24ee-4864-abcc-e4b75a10c112": {
+    "url": "db://assets/scenes",
+    "value": {}
+  },
+  "e260080c-dda1-407a-98df-d24dd6bd231c": {
+    "url": "db://assets/scenes/client.scene",
+    "value": {
+      "depends": [
+        "c77ecaa8-c936-46c4-a5b0-98692673ed87"
+      ]
+    }
+  }
+}
