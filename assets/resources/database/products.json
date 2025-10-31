@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "type": "A1",
+    "name": "Regular Pastil",
+    "price": 20
+  },
+  
+  {
+    "id": 2,
+    "type": "A2",
+    "name": "Combo Pastil",
+    "price": 20
+  },
+  
+  {
+    "id": 3,
+    "type": "A3",
+    "name": "Spicy Pastil",
+    "price": 20
+  },
+  
+  {
+    "id": 4,
+    "type": "A4",
+    "name": "Spicy Combo Pastil",
+    "price": 20
+  },
+  
+  {
+    "id": 4,
+    "type": "B1",
+    "name": "Regular Pastil",
+    "price": 20
+  },
+  
+  {
+    "id": 4,
+    "type": "B2",
+    "name": "Combo Pastil",
+    "price": 20
+  },
+  
+  {
+    "id": 4,
+    "type": "B3",
+    "name": "Spicy Pastil",
+    "price": 20
+  },
+  
+  {
+    "id": 4,
+    "type": "B4",
+    "name": "Spicy Combo Pastil",
+    "price": 20
+  }
+]

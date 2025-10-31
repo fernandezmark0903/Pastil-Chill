@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "name": "Boiled Egg",
+    "price": 20
+  },
+
+  {
+    "id": 2,
+    "name": "Sunny Side Up",
+    "price": 20
+  },
+
+  {
+    "id": 3,
+    "name": "Chicken Lumpia",
+    "price": 20
+  },
+
+  {
+    "id": 4,
+    "name": "Fish Lumpia",
+    "price": 20
+  },
+
+  {
+    "id": 5,
+    "name": "Extra Rice",
+    "price": 20
+  }
+]

@@ -2,12 +2,12 @@
   "ver": "1.1.40",
   "importer": "prefab",
   "imported": true,
-  "uuid": "96444a46-f5c4-459d-86aa-3fd38b1c456f",
+  "uuid": "c6933f74-cd0c-4cc7-993b-c5d664d4d6fd",
   "files": [
     ".json"
   ],
   "subMetas": {},
   "userData": {
-    "syncNodeName": "addonsProduct"
+    "syncNodeName": "addonsProduct_1"
   }
 }

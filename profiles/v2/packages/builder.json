@@ -13,23 +13,23 @@
   },
   "BuildTaskManager": {
     "taskMap": {
-      "1761848285820": {
+      "1761886419375": {
         "type": "build",
-        "id": "1761848285820",
+        "id": "1761886419375",
         "progress": 1,
         "state": "success",
         "stage": "build",
-        "message": "10-31-2025 02:20:32 Build success in 6024 ms!",
+        "message": "10-31-2025 13:45:22 Build success in 29682 ms!",
         "options": {
           "name": "Pastil&Chill",
-          "platform": "web-mobile",
+          "platform": "android",
           "buildPath": "project://build",
           "debug": false,
           "md5Cache": false,
           "skipCompressTexture": false,
           "sourceMaps": false,
           "polyfills": {
-            "asyncFunctions": true
+            "asyncFunctions": false
           },
           "experimentalEraseModules": false,
           "useBuiltinServer": false,
@@ -37,7 +37,7 @@
           "mainBundleCompressionType": "merge_dep",
           "replaceSplashScreen": false,
           "startScene": "e260080c-dda1-407a-98df-d24dd6bd231c",
-          "outputName": "web-mobile",
+          "outputName": "android-001",
           "scenes": [
             {
               "url": "db://assets/scenes/client.scene",
@@ -45,23 +45,54 @@
               "inBundle": false
             }
           ],
-          "web-desktop": [],
+          "android": [],
           "packages": {
-            "web-mobile": {
-              "orientation": "auto",
-              "embedWebDebugger": false,
+            "android": {
+              "packageName": "com.pastilandchill.pos",
+              "orientation": {
+                "portrait": false,
+                "upsideDown": false,
+                "landscapeRight": true,
+                "landscapeLeft": true
+              },
+              "apiLevel": 36,
+              "appABIs": [
+                "arm64-v8a"
+              ],
+              "useDebugKeystore": true,
+              "keystorePath": "",
+              "keystorePassword": "",
+              "keystoreAlias": "",
+              "keystoreAliasPassword": "",
+              "appBundle": false,
+              "androidInstant": false,
+              "remoteUrl": "",
+              "sdkPath": "",
+              "ndkPath": "",
+              "renderBackEnd": {
+                "vulkan": true,
+                "gles3": false,
+                "gles2": false
+              },
+              "swappy": false,
               "__version__": "1.0.1"
             },
             "cocos-service": {
               "configID": "1fd59e",
-              "services": []
+              "services": [],
+              "__version__": "3.0.5"
+            },
+            "native": {
+              "encrypted": false,
+              "xxteaKey": "60KQXC4jtPaJpLGn",
+              "compressZip": false,
+              "JobSystem": "none",
+              "__version__": "1.0.2"
             }
           },
-          "__version__": "1.3.3",
-          "android": [],
-          "web-mobile": []
+          "__version__": "1.3.3"
         },
-        "time": "10-31-2025 02:20",
+        "time": "10-31-2025 13:44",
         "dirty": false
       }
     }

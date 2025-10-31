@@ -11,7 +11,7 @@
     "time": 1761840682167.0208
   },
   "D:\\Pastil&Chill\\assets\\scenes\\client.scene": {
-    "time": 1761848477385.116,
+    "time": 1761897777204.6404,
     "uuid": "e260080c-dda1-407a-98df-d24dd6bd231c",
     "missing": false
   },
@@ -19,7 +19,7 @@
     "time": 1761841306518.4753
   },
   "D:\\Pastil&Chill\\assets\\scripts": {
-    "time": 1761841306509.4731,
+    "time": 1761896753157.4265,
     "uuid": "83fd2f4e-a50a-4a09-b0d8-c40b422c6ace",
     "missing": false
   },
@@ -27,7 +27,7 @@
     "time": 1761841311536.3367
   },
   "D:\\Pastil&Chill\\assets\\assets": {
-    "time": 1761847159342.8643,
+    "time": 1761890195816.2913,
     "uuid": "0f935291-4b11-47e9-8544-e3cbae87a499",
     "missing": false
   },
@@ -35,7 +35,7 @@
     "time": 1761846001921.0146
   },
   "D:\\Pastil&Chill\\assets\\assets\\Images": {
-    "time": 1761846078680.6438,
+    "time": 1761895704973.895,
     "uuid": "0655ba27-af71-452c-bebe-17f8e6cac6b4",
     "missing": false
   },
@@ -59,24 +59,112 @@
     "time": 1761847159343.8662
   },
   "D:\\Pastil&Chill\\assets\\assets\\prefabs": {
-    "time": 1761847582749.6467,
+    "time": 1761896713874.676,
     "uuid": "9066dfc8-f994-4ffc-a6dc-54e62035834d",
     "missing": false
   },
-  "D:\\Pastil&Chill\\assets\\assets\\prefabs\\mainProduct.prefab.meta": {
-    "time": 1761847580181.524
+  "D:\\Pastil&Chill\\assets\\scripts\\DatabaseManager.ts.meta": {
+    "time": 1761890020015.242
   },
-  "D:\\Pastil&Chill\\assets\\assets\\prefabs\\mainProduct.prefab": {
-    "time": 1761847580179.5327,
-    "uuid": "c50f1f08-e9f2-40a9-834e-78b62921c691",
+  "D:\\Pastil&Chill\\assets\\scripts\\DatabaseManager.ts": {
+    "time": 1761894806433.6924,
+    "uuid": "eaafa23b-761a-47fb-98b8-f5d55a744646",
     "missing": false
   },
-  "D:\\Pastil&Chill\\assets\\assets\\prefabs\\addonsProduct.prefab.meta": {
-    "time": 1761847582761.6465
+  "D:\\Pastil&Chill\\assets\\resources.meta": {
+    "time": 1761890195818.2898
   },
-  "D:\\Pastil&Chill\\assets\\assets\\prefabs\\addonsProduct.prefab": {
-    "time": 1761847582759.6475,
-    "uuid": "96444a46-f5c4-459d-86aa-3fd38b1c456f",
+  "D:\\Pastil&Chill\\assets\\resources\\database.meta": {
+    "time": 1761890151131.9348
+  },
+  "D:\\Pastil&Chill\\assets\\resources": {
+    "time": 1761890151130.9363,
+    "uuid": "4ee271cb-b633-48b9-aab6-cc902a1b14e0",
+    "missing": false
+  },
+  "D:\\Pastil&Chill\\assets\\resources\\database": {
+    "time": 1761890510816.5015,
+    "uuid": "d68c7864-a251-4be3-a8e1-ed3df9baab32",
+    "missing": false
+  },
+  "D:\\Pastil&Chill\\assets\\resources\\database\\products.json.meta": {
+    "time": 1761890172519.1763
+  },
+  "D:\\Pastil&Chill\\assets\\resources\\database\\products.json": {
+    "time": 1761890476378.1067,
+    "uuid": "5abee71f-55fe-4021-bef3-06b92cda0fe1",
+    "missing": false
+  },
+  "D:\\Pastil&Chill\\assets\\resources\\database\\addons.json.meta": {
+    "time": 1761890508005.7585
+  },
+  "D:\\Pastil&Chill\\assets\\resources\\database\\addons.json": {
+    "time": 1761890583013.1594,
+    "uuid": "a5f332ed-f5f4-4da1-af76-62fd6c9f2611",
+    "missing": false
+  },
+  "D:\\Pastil&Chill\\assets\\assets\\prefabs\\mainProduct_1.prefab.meta": {
+    "time": 1761891413076.1475
+  },
+  "D:\\Pastil&Chill\\assets\\assets\\prefabs\\mainProduct_1.prefab": {
+    "time": 1761894302540.0918,
+    "uuid": "82b5ddb4-db0d-4475-864e-10ccd08560d3",
+    "missing": false
+  },
+  "D:\\Pastil&Chill\\assets\\assets\\prefabs\\addonsProduct_1.prefab.meta": {
+    "time": 1761894089027.534
+  },
+  "D:\\Pastil&Chill\\assets\\assets\\prefabs\\addonsProduct_1.prefab": {
+    "time": 1761895036507.423,
+    "uuid": "c6933f74-cd0c-4cc7-993b-c5d664d4d6fd",
+    "missing": false
+  },
+  "D:\\Pastil&Chill\\assets\\scripts\\productActions.ts.meta": {
+    "time": 1761894257442.4976
+  },
+  "D:\\Pastil&Chill\\assets\\scripts\\productActions.ts": {
+    "time": 1761894976844.431,
+    "uuid": "3850fff3-1a47-4a39-a753-476b3fb817b2",
+    "missing": false
+  },
+  "D:\\Pastil&Chill\\assets\\scripts\\addonsActions.ts.meta": {
+    "time": 1761895014665.4497
+  },
+  "D:\\Pastil&Chill\\assets\\scripts\\addonsActions.ts": {
+    "time": 1761895045242.272,
+    "uuid": "10cfacf4-63ed-4392-988f-c98045d9e71f",
+    "missing": false
+  },
+  "D:\\Pastil&Chill\\assets\\assets\\Images\\minus-icon.png.meta": {
+    "time": 1761895705027.896
+  },
+  "D:\\Pastil&Chill\\assets\\assets\\Images\\plus-icon.png.meta": {
+    "time": 1761895705028.8975
+  },
+  "D:\\Pastil&Chill\\assets\\assets\\Images\\minus-icon.png": {
+    "time": 1761895684491.5432,
+    "uuid": "103c18d5-843e-462e-80ba-665e1da2951f",
+    "missing": false
+  },
+  "D:\\Pastil&Chill\\assets\\assets\\Images\\plus-icon.png": {
+    "time": 1761895613202.3188,
+    "uuid": "fcaad63d-241e-4604-9cf7-d612b4d7c57e",
+    "missing": false
+  },
+  "D:\\Pastil&Chill\\assets\\assets\\prefabs\\item.prefab.meta": {
+    "time": 1761896713887.677
+  },
+  "D:\\Pastil&Chill\\assets\\assets\\prefabs\\item.prefab": {
+    "time": 1761897773549.8142,
+    "uuid": "165bcec0-86d7-441a-b045-974039f1b13c",
+    "missing": false
+  },
+  "D:\\Pastil&Chill\\assets\\scripts\\orderAction.ts.meta": {
+    "time": 1761896753167.4258
+  },
+  "D:\\Pastil&Chill\\assets\\scripts\\orderAction.ts": {
+    "time": 1761897771142.9055,
+    "uuid": "7e94a6a2-1e46-47d8-9cbc-a2f16f2b713b",
     "missing": false
   }
 }

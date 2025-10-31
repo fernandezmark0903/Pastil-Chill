@@ -185,15 +185,140 @@
           "messages": []
         }
       },
-      "timestamp": 1761848637785
+      "timestamp": 1761884113739
     },
-    "051e512bc19ae273b1b08b612b292a731729aa05": {
+    "5d4ae90632fd2428045242d677e6d8f2f5f157b1": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1761890020076
+    },
+    "12137992ff4e9e2250534f6f14a1082448221d6b": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1761894825920
+    },
+    "be027f973d8ff1c6fe3dcfebbc993118a793ec1b": {
       "imports": {},
-      "timestamp": 1761848637809
+      "timestamp": 1761894825980
+    },
+    "50201303c12334f95ecf4d936307950a236d2cff": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "be027f973d8ff1c6fe3dcfebbc993118a793ec1b"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "chunk",
+            "id": "12137992ff4e9e2250534f6f14a1082448221d6b"
+          },
+          "messages": []
+        },
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1761895006766
+    },
+    "6ffcf903410627487273477905fa4b78f679b111": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "be027f973d8ff1c6fe3dcfebbc993118a793ec1b"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "chunk",
+            "id": "12137992ff4e9e2250534f6f14a1082448221d6b"
+          },
+          "messages": []
+        },
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1761895047683
+    },
+    "52c5783aa6cb269f6547b0da83ec062fe79b746b": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "12137992ff4e9e2250534f6f14a1082448221d6b"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "chunk",
+            "id": "6ffcf903410627487273477905fa4b78f679b111"
+          },
+          "messages": []
+        },
+        "__unresolved_2": {
+          "resolved": {
+            "type": "chunk",
+            "id": "ce56c4b39a698d3fcb8fec8a1d1b7eb74fc3ccf1"
+          },
+          "messages": []
+        },
+        "__unresolved_3": {
+          "resolved": {
+            "type": "chunk",
+            "id": "50201303c12334f95ecf4d936307950a236d2cff"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1761897771858
+    },
+    "ce56c4b39a698d3fcb8fec8a1d1b7eb74fc3ccf1": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1761897771910
     }
   },
   "entries": {
     "cce:/internal/x/cc": "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53",
-    "cce:/internal/x/prerequisite-imports": "051e512bc19ae273b1b08b612b292a731729aa05"
+    "cce:/internal/x/prerequisite-imports": "52c5783aa6cb269f6547b0da83ec062fe79b746b",
+    "file:///D:/Pastil&Chill/assets/scripts/DatabaseManager.ts": "12137992ff4e9e2250534f6f14a1082448221d6b",
+    "file:///D:/Pastil&Chill/assets/scripts/productActions.ts": "50201303c12334f95ecf4d936307950a236d2cff",
+    "file:///D:/Pastil&Chill/assets/scripts/addonsActions.ts": "6ffcf903410627487273477905fa4b78f679b111",
+    "file:///D:/Pastil&Chill/assets/scripts/orderAction.ts": "ce56c4b39a698d3fcb8fec8a1d1b7eb74fc3ccf1"
   }
 }
